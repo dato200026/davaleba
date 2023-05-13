@@ -30,32 +30,32 @@ nextBut.onclick=nextSlide;
 const card_array=[
     {
         title:'flight booking',
-        image_path: '../../section-two/card-1.jpg',
+        image_path: 'section-three/card-1.jpg',
         card_text: 'Lorem ipsum dolor m quod soluta maxime itaque? Assumenda eaque animi recusandae hic unde commodi fugit exercitationem quis!'
     },
     {
         title:'hotel and resort booking',
-        image_path: '../../section-two/card-2.jpg',
+        image_path: 'section-three/card-2.jpg',
         card_text: 'Lorem ipsum dolor m quod soluta maxime itaque? Assumenda eaque animi recusandae hic unde commodi fugit exercitationem quis!'
     },
     {
         title:'family trip planner',
-        image_path: '../../section-two/card-3.jpg',
+        image_path: 'section-three/card-3.jpg',
         card_text: 'Lorem ipsum dolor m quod soluta maxime itaque? Assumenda eaque animi recusandae hic unde commodi fugit exercitationem quis!'
     },
     {
         title:'cruise tour',
-        image_path: '../../section-two/card-4.jpg',
+        image_path: 'section-three/card-4.jpg',
         card_text: 'Lorem ipsum dolor m quod soluta maxime itaque? Assumenda eaque animi recusandae hic unde commodi fugit exercitationem quis!'
     },
     {
         title:'fire camp',
-        image_path: '../../section-two/card-5.jpg',
+        image_path: 'section-three/card-5.jpg',
         card_text: 'Lorem ipsum dolor m quod soluta maxime itaque? Assumenda eaque animi recusandae hic unde commodi fugit exercitationem quis!'
     },
     {
         title:'comfortable holidays ',
-        image_path: '../../section-two/card-6.jpg',
+        image_path: 'section-three/card-6.jpg',
         card_text: 'Lorem ipsum dolor m quod soluta maxime itaque? Assumenda eaque animi recusandae hic unde commodi fugit exercitationem quis!'
     }
 ]

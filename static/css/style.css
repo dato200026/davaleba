@@ -459,19 +459,19 @@ header ul li:hover{
 } 
 
 .card-container3 .indonesia{
-    background-image:url('../../section-six/indonesia.jpeg');
+    background-image:url('section-seven/indonesia.jpeg');
 }
 .card-container3 .thailand{
-    background-image:url('../../section-six/thailand.jpg');
+    background-image:url('section-seven/thailand.jpg');
 
 }
 .card-container3 .singapore{
-    background-image:url('../../section-six/singapore.jpg');
+    background-image:url('section-seven/singapore.jpg');
     background-position: 50%;
 
 }
 .card-container3 .italy{
-    background-image:url('../../section-six/italy.jpg');
+    background-image:url('section-seven/italy.jpg');
     background-position: 80%;
 
 }
