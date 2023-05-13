@@ -115,7 +115,7 @@ header ul li:hover{
 }
 .section-flex{
     display:flex;
-    justify-content: space-between;
+    justify-content: center;
     gap:15px;
     padding-top:30px;
 }
@@ -459,19 +459,18 @@ header ul li:hover{
 } 
 
 .card-container3 .indonesia{
-    background-image:url('section-seven/indonesia.jpeg');
+    background-image:url('../../section-seven/indonesia.jpeg');
 }
 .card-container3 .thailand{
-    background-image:url('section-seven/thailand.jpg');
-
+    background-image:url('../../section-seven/thailand.jpg')
 }
 .card-container3 .singapore{
-    background-image:url('section-seven/singapore.jpg');
+    background-image:url('../../section-seven/singapore.jpg');
     background-position: 50%;
 
 }
 .card-container3 .italy{
-    background-image:url('section-seven/italy.jpg');
+    background-image:url('../../section-seven/italy.jpeg');
     background-position: 80%;
 
 }
@@ -606,6 +605,7 @@ footer{
         right: 50px;
     }
     .section-flex {
+        display:flex;
         justify-content: space-between;
         padding:30px;
     }
